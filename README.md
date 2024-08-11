@@ -3,7 +3,7 @@ This is my Project related to Emotional Intelligence and my repository name mean
 
 Basically, In this project have major 30 questions related to EI(Emotional Intelligence). All questions are based on your feelings and behaviors.
 Your all answers are based on the ranking of each questions.
-There are seven possible responses to each statement ranging from 1 to 7
+There are seven possible responses to each statement ranging from 1 to 7.
 The ranking values are,
 1. Completely Disagree
 2. Disagree
